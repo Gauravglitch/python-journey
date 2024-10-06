@@ -1,0 +1,13 @@
+Piece,Value,Color,Position
+Pawn,1,White,a2
+Pawn,1,Black,a7
+Knight,3,White,b1
+Knight,3,Black,b8
+Bishop,3,White,c1
+Bishop,3,Black,c8
+Rook,5,White,a1
+Rook,5,Black,a8
+Queen,9,White,d1
+Queen,9,Black,d8
+King,Infinite,White,e1
+King,Infinite,Black,e8
